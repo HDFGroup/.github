@@ -1,6 +1,6 @@
 **Welcome! (Under Contruction)**
 
-Here's how to get in touch with The HDF Group. 
+We're glad to have you here. Here's how to get in touch with The HDF Group. 
 
 * Get Help
   * You'll find all documentation at [https://support.hdfgroup.org/documentation](https://support.hdfgroup.org/documentation).
