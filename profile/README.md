@@ -1,7 +1,7 @@
 ---
 
 ## Welcome to The HDF Group! 
-
+<img src="Hummingbird on HDF logo.png" align=right width=250>
 We're so glad you're here. You've come to the right place to get started with the HDF community.
 
 ---
