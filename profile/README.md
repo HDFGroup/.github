@@ -1,14 +1,26 @@
-<h2>Welcome! (Under Contruction)</h2>
+---
 
-We're glad to have you here. Here's how to get in touch with The HDF Group. 
+## Welcome to The HDF Group! 
 
-<h3>Get Help</h3>
+We're so glad you're here. You've come to the right place to get started with the HDF community.
 
-  * You'll find all documentation at [https://support.hdfgroup.org/documentation](https://support.hdfgroup.org/documentation).
-  * Visit our Forum to search for help or make a post at [https://forum.hdfgroup.org](https://forum.hdfgroup.org).
-  * Come to one of our weekly [Call the Doctor](https://www.hdfgroup.org/weekly-hdf-clinic/) sessions; staff members from The HDF Group will be online and usually present some content, but this session is first and foremost for answering community questions.
-  * Send a ticket in to our free community [Help Desk](https://help.hdfgroup.org).
-  * Consider purchasing a service contract for [Priority Support](https://www.hdfgroup.org/solutions/priority-support/), which helps to support our non-profit mission.
- 
-<h3>Contribute to the community</h3>
-Feel free to raise an issue or write a pull request in any of our repos! 
+---
+
+### Get Help When You Need It
+
+We have a ton of resources to help you get the most out of HDF products.
+
+* **Documentation:** Explore our comprehensive [documentation](https://support.hdfgroup.org/documentation) to find exactly what you need.
+* **Community Forum:** Have a question? Our [forum](https://forum.hdfgroup.org) is the perfect place to search for answers or ask the community for help.
+* **Call the Doctor:** [Join](https://www.hdfgroup.org/weekly-hdf-clinic/) our weekly sessions to get your questions answered directly by The HDF Group staff.
+* **Help Desk:** For specific issues, submit a ticket to our free community [Help Desk](https://help.hdfgroup.org).
+* **Priority Support:** For dedicated assistance, consider a [service contract](https://www.hdfgroup.org/solutions/priority-support/). Your support helps us continue our non-profit mission.
+
+---
+
+### Join the Conversation!
+
+We're an open-source community, and we thrive on your contributions.
+
+* **Contribute:** Found a bug or have an idea for a new feature? Raise an issue or write a pull request on any of our repos!
+
